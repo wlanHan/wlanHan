@@ -1,4 +1,4 @@
- [![MasterHead](https://www.yakuter.com/wp-content/yuklemeler/banner-web-development.png)
+![MasterHead](https://www.yakuter.com/wp-content/yuklemeler/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm Efe Han</h1>
 <h3 align="center">A passionate full-stack developer from Turkiye</h3>
 
