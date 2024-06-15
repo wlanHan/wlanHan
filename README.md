@@ -1,5 +1,5 @@
 <h2> 💫 About Me:</h2>
-🔭 I’m currently working on React.js<br>🤝 In my learning goal TypeScript, Vue.js and maybe SASS<br>
+🔭 I’m currently working on React.js<br>🤝 In my learning goal TypeScript, Vue.js and maybe SASS.<br>
 
 
 <h2> 💻 Tech Stack:</h2>
